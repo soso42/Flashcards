@@ -1,0 +1,8 @@
+Russia:Moscow:2
+Georgia:Tbilisi:0
+France:Paris:0
+Turkey:Istanbul:0
+Sweden:Stockholm:2
+UK:London:0
+China:Beijing:0
+Italy:Rome:0

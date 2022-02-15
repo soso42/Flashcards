@@ -1,0 +1,19 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> import
+File name: 
+> capitals.txt
+6 cards have been loaded.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> hardest card
+The hardest cards are "Sweden", "Russia". You have 4 errors answering them.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> log
+File name: 
+> logs.txt
+6 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> log
+File name: 
+> logs.txt
