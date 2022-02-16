@@ -4,7 +4,7 @@ JetBrain's academy project - Flashcards. It's a console implementation of a simp
 ## About
 JetBrains Academy  
 Track: Java Developer  
-Project: Encryption-Decryption
+Project: Flashcards
 https://hyperskill.org/projects/44?track=15
 
 ## Implemented Patterns
